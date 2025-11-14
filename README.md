@@ -30,7 +30,7 @@ This project implements an AI-based solution for detecting **vehicle body damage
 Getting Started
 ------------------
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 cd Vehicle-Damage-Detection
 
@@ -130,3 +130,4 @@ The model produces:
 -   Build a **desktop app** (Tkinter) or **web app** (Flask/Streamlit)
 
 - - -
+
